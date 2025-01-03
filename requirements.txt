@@ -1,3 +1,7 @@
 opencv-python
-azure-storage-blob
+flask
+python-dotenv
+opencv-python
 Pillow
+azure-storage-blob
+tkinter
