@@ -1,7 +1,0 @@
-opencv-python
-flask
-python-dotenv
-opencv-python
-Pillow
-azure-storage-blob
-tkinter
